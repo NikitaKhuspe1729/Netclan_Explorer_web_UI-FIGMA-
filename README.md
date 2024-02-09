@@ -1,5 +1,4 @@
 # Netclan_Explorer_web_UI-FIGMA-
-Experience seamless chats with my user-friendly conversation app's web interface, crafted with love on Figma. Engage effortlessly in lively conversations with a clean and intuitive design.
 
 https://www.figma.com/proto/0m67vtMsMvqAaHgyncfsTD/Project-preview?page-id=0%3A1&type=design&node-id=206-293&viewport=-1227%2C256%2C0.14&t=PtxclUkDYpnrgNYr-1&scaling=scale-down&mode=design
 
