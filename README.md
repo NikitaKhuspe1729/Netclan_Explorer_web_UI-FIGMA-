@@ -1,6 +1,9 @@
 # Netclan_Explorer_web_UI-FIGMA-
+# File link
+https://www.figma.com/design/TAU9Ai8Q5AFRPIh0sJkJwC/Netclan_UI?node-id=0-1&t=UdpIeu1GInLxTd1i-1
+# Prototype
+https://www.figma.com/proto/TAU9Ai8Q5AFRPIh0sJkJwC/Netclan_UI?page-id=0%3A1&node-id=1-51&node-type=canvas&viewport=630%2C383%2C0.15&t=ane9csUbfNm2DywB-1&scaling=scale-down&content-scaling=fixed
 
-https://www.figma.com/proto/wLEhpZgc7rShyAdkLuyxC1/Projects?page-id=0%3A1&type=design&node-id=358-575&viewport=-3412%2C-4488%2C0.14&t=be9mZOuwr8HfN0YB-1&scaling=contain&starting-point-node-id=1%3A8&mode=design
 
 ![netclan](https://github.com/NikitaKhuspe1729/Netclan_Explorer_web_UI-FIGMA-/assets/125488086/bb9d9c22-1c94-4c5f-a47f-163feb9b3804)
 
